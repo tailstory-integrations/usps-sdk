@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.7"
 dependencies = [
     "requests>=2.26.0",
-    "xmltodict>=0.12,<0.14",
+    "xmltodict>=1.0.4,<1.1",
 ]
 
 [project.urls]
